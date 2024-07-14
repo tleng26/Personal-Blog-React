@@ -1,16 +1,10 @@
 {
   "blogs": [
     {
-      "title": "I love Jeehee Kim!",
-      "body": "OMG Jeehee Kim is so awesome!!!",
-      "author": "Tony",
+      "title": "Your first blog post!",
+      "body": "Replace the description and title in data/db.json. You can delete this post and enter in your own!",
+      "author": "your name here",
       "id": "1"
-    },
-    {
-      "title": "HOLD UP DOE!!",
-      "body": "hodudoehodudoehodudoehodudoe",
-      "author": "Jeehee",
-      "id": "3"
     }
   ]
 }
